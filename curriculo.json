@@ -1,0 +1,141 @@
+{
+ "ano": 3,
+ "componente": "Língua Portuguesa",
+ "rede": "Currículo da Educação Básica do Sistema Municipal de Ensino de Blumenau",
+ "documento": "_curriculo/blumenau.txt",
+ "conceitos": [
+  "divisão silábica",
+  "tonicidade da sílaba",
+  "sílaba tônica",
+  "oxítonas",
+  "paroxítonas",
+  "proparoxítonas"
+ ],
+ "fora_do_curriculo": [
+  {
+   "termo": "acentuação gráfica",
+   "motivo": "O caderno NÃO ensina quando se PÕE o acento — isso é outra habilidade do mesmo ano, e é regra de ESCRITA. Aqui se trabalha o OUVIDO: onde a força da voz cai. A folha 27 existe justamente para desfazer a confusão que as folhas de papel criam, mostrando que CAFÉ tem acento e ANZOL não e as duas são oxítonas. A palavra «acentuação» não é dita à criança em folha nenhuma."
+  },
+  {
+   "termo": "monossílabo",
+   "motivo": "Monossílabo NÃO se classifica em oxítona, paroxítona ou proparoxítona — essa classificação é de palavra com duas sílabas ou mais. Os monossílabos que aparecem na cantiga da folha 22 (SE, EU, UM, A, DO, MAR) ficam no verso porque o verso é o que é, mas nenhum deles é peça para classificar, e o enunciado diz que só as palavras destacadas entram na conta."
+  }
+ ],
+ "degrau": 3,
+ "evidencia": [
+  "Jogado do começo ao fim no navegador, item por item, antes de publicar.",
+  "Um jogador automático resolve cada item pela resposta declarada e confere se a folha fecha.",
+  "Leiaute medido em 6 tamanhos de tela: nenhuma figura cortada e nenhum alvo de toque menor que 40 px.",
+  "Toda tela é narrada com voz real, e CADA SÍLABA tem o seu alto-falante — é o que o papel não pode dar.",
+  "As 35 folhas nasceram do crivo de 40 folhas de papel reais, em `_sequencias/POTE-TONICA3.md`.",
+  "As 21 figuras foram recortadas das próprias folhas de papel, e o portão 1i7 confere cada caixa contra a folha de origem.",
+  "A habilidade citada no dossiê é conferida, palavra por palavra, contra o currículo da rede."
+ ],
+ "observacoes": [
+  "O QUE A TELA ACRESCENTA AO PAPEL, e é o motivo de este caderno existir: nenhuma das quarenta folhas colhidas resolve como a criança acha a sílaba forte numa palavra SEM ACENTO. No papel ela acerta olhando o acento, porque metade dos exemplos o tem; em CADERNO, ESPELHO e BANANA não há acento e ela chuta. Aqui cada sílaba tem o seu alto-falante: ela ouve pedaço por pedaço e escolhe o que a voz diz mais forte.",
+  "O CONCEITO VEM NA FOLHA 8, nunca na primeira. A folha 7 é a folha d09 das colhidas — a melhor das quarenta —, em que a criança lê três grupos e DESCOBRE sozinha que em cada um a força cai sempre no mesmo lugar. Os nomes oxítona, paroxítona e proparoxítona só aparecem depois disso, e depois de seis folhas de puro ouvido.",
+  "A FOLHA 27 É BLOCO DECLARADO e não vem de folha de papel nenhuma. Ela desfaz a regra errada que as folhas de papel ensinam sem querer: «é oxítona quando tem acento no fim». O acento, quando existe, MOSTRA onde a força cai — mas a maioria das palavras não tem acento.",
+  "A FOLHA 14 É O MELHOR PAR DO CADERNO: MÚSICA e MUSICAL, PÁSSARO e PASSARINHO, NÚMERO e NUMERAL. A mesma raiz e a força muda de lugar — quem decorou a palavra não resolve essa folha, só quem ouve."
+ ],
+ "objetivos": [
+  {
+   "objetivo": "Ouvir e achar a sílaba mais forte da palavra",
+   "folhas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19,
+    20
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Construção do sistema alfabético",
+   "habilidade": "HABILIDADE: \"Identificar a sílaba tônica em palavras, classificando-as em oxítonas, paroxítonas e proparoxítonas.\""
+  },
+  {
+   "objetivo": "Descobrir a regra sozinha e então receber os três nomes",
+   "folhas": [
+    7,
+    8
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Construção do sistema alfabético",
+   "habilidade": "HABILIDADE: \"Identificar a sílaba tônica em palavras, classificando-as em oxítonas, paroxítonas e proparoxítonas.\""
+  },
+  {
+   "objetivo": "Contar de trás para a frente: última, penúltima, antepenúltima",
+   "folhas": [
+    9,
+    10
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Construção do sistema alfabético",
+   "habilidade": "HABILIDADE: \"Identificar a sílaba tônica em palavras, classificando-as em oxítonas, paroxítonas e proparoxítonas.\""
+  },
+  {
+   "objetivo": "Classificar a palavra em oxítona, paroxítona ou proparoxítona",
+   "folhas": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    21,
+    25,
+    26,
+    28,
+    29,
+    34
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Construção do sistema alfabético",
+   "habilidade": "HABILIDADE: \"Identificar a sílaba tônica em palavras, classificando-as em oxítonas, paroxítonas e proparoxítonas.\""
+  },
+  {
+   "objetivo": "Partir a palavra em sílabas e escrever a que leva a força",
+   "folhas": [
+    17,
+    18,
+    30,
+    31,
+    32,
+    33
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Construção do sistema alfabético",
+   "habilidade": "HABILIDADE: \"Identificar a sílaba tônica em palavras, classificando-as em oxítonas, paroxítonas e proparoxítonas.\""
+  },
+  {
+   "objetivo": "Achar e classificar a palavra dentro de um texto ou de uma cantiga",
+   "folhas": [
+    22,
+    23,
+    24
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Construção do sistema alfabético",
+   "habilidade": "HABILIDADE: \"Identificar a sílaba tônica em palavras, classificando-as em oxítonas, paroxítonas e proparoxítonas.\""
+  },
+  {
+   "objetivo": "Saber que o acento é pista, e não regra",
+   "folhas": [
+    27
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Construção do sistema alfabético",
+   "habilidade": "HABILIDADE: \"Identificar a sílaba tônica em palavras, classificando-as em oxítonas, paroxítonas e proparoxítonas.\""
+  },
+  {
+   "objetivo": "Escrever a própria palavra de cada classe",
+   "folhas": [
+    35
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Construção do sistema alfabético",
+   "habilidade": "HABILIDADE: \"Identificar a sílaba tônica em palavras, classificando-as em oxítonas, paroxítonas e proparoxítonas.\""
+  }
+ ]
+}

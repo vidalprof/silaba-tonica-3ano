@@ -1,0 +1,263 @@
+{
+ "prefixo": "t3_",
+ "voz": "pt-BR-AntonioNeural",
+ "palavras": {
+  "amável": [
+   "A",
+   "MÁ",
+   "VEL"
+  ],
+  "anzol": [
+   "AN",
+   "ZOL"
+  ],
+  "açúcar": [
+   "A",
+   "ÇÚ",
+   "CAR"
+  ],
+  "banana": [
+   "BA",
+   "NA",
+   "NA"
+  ],
+  "boneca": [
+   "BO",
+   "NE",
+   "CA"
+  ],
+  "borracha": [
+   "BOR",
+   "RA",
+   "CHA"
+  ],
+  "cadeado": [
+   "CA",
+   "DE",
+   "A",
+   "DO"
+  ],
+  "cadeira": [
+   "CA",
+   "DEI",
+   "RA"
+  ],
+  "caderno": [
+   "CA",
+   "DER",
+   "NO"
+  ],
+  "café": [
+   "CA",
+   "FÉ"
+  ],
+  "caju": [
+   "CA",
+   "JU"
+  ],
+  "casa": [
+   "CA",
+   "SA"
+  ],
+  "cavalo": [
+   "CA",
+   "VA",
+   "LO"
+  ],
+  "chave": [
+   "CHA",
+   "VE"
+  ],
+  "cipó": [
+   "CI",
+   "PÓ"
+  ],
+  "dominó": [
+   "DO",
+   "MI",
+   "NÓ"
+  ],
+  "escola": [
+   "ES",
+   "CO",
+   "LA"
+  ],
+  "espelho": [
+   "ES",
+   "PE",
+   "LHO"
+  ],
+  "esquilo": [
+   "ES",
+   "QUI",
+   "LO"
+  ],
+  "feliz": [
+   "FE",
+   "LIZ"
+  ],
+  "fácil": [
+   "FÁ",
+   "CIL"
+  ],
+  "janela": [
+   "JA",
+   "NE",
+   "LA"
+  ],
+  "javali": [
+   "JA",
+   "VA",
+   "LI"
+  ],
+  "lancheira": [
+   "LAN",
+   "CHEI",
+   "RA"
+  ],
+  "laranja": [
+   "LA",
+   "RAN",
+   "JA"
+  ],
+  "livro": [
+   "LI",
+   "VRO"
+  ],
+  "lápis": [
+   "LÁ",
+   "PIS"
+  ],
+  "lâmpada": [
+   "LÂM",
+   "PA",
+   "DA"
+  ],
+  "líquido": [
+   "LÍ",
+   "QUI",
+   "DO"
+  ],
+  "matemática": [
+   "MA",
+   "TE",
+   "MÁ",
+   "TI",
+   "CA"
+  ],
+  "menina": [
+   "ME",
+   "NI",
+   "NA"
+  ],
+  "mochila": [
+   "MO",
+   "CHI",
+   "LA"
+  ],
+  "médico": [
+   "MÉ",
+   "DI",
+   "CO"
+  ],
+  "música": [
+   "MÚ",
+   "SI",
+   "CA"
+  ],
+  "nariz": [
+   "NA",
+   "RIZ"
+  ],
+  "número": [
+   "NÚ",
+   "ME",
+   "RO"
+  ],
+  "papel": [
+   "PA",
+   "PEL"
+  ],
+  "pálido": [
+   "PÁ",
+   "LI",
+   "DO"
+  ],
+  "pássaro": [
+   "PÁS",
+   "SA",
+   "RO"
+  ],
+  "relâmpago": [
+   "RE",
+   "LÂM",
+   "PA",
+   "GO"
+  ],
+  "robô": [
+   "RO",
+   "BÔ"
+  ],
+  "sofá": [
+   "SO",
+   "FÁ"
+  ],
+  "sorvete": [
+   "SOR",
+   "VE",
+   "TE"
+  ],
+  "sábado": [
+   "SÁ",
+   "BA",
+   "DO"
+  ],
+  "tambor": [
+   "TAM",
+   "BOR"
+  ],
+  "tatu": [
+   "TA",
+   "TU"
+  ],
+  "tesoura": [
+   "TE",
+   "SOU",
+   "RA"
+  ],
+  "trânsito": [
+   "TRÂN",
+   "SI",
+   "TO"
+  ],
+  "tênis": [
+   "TÊ",
+   "NIS"
+  ],
+  "urubu": [
+   "U",
+   "RU",
+   "BU"
+  ],
+  "xícara": [
+   "XÍ",
+   "CA",
+   "RA"
+  ],
+  "árvore": [
+   "ÁR",
+   "VO",
+   "RE"
+  ],
+  "óculos": [
+   "Ó",
+   "CU",
+   "LOS"
+  ],
+  "ônibus": [
+   "Ô",
+   "NI",
+   "BUS"
+  ]
+ }
+}
