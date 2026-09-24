@@ -1,0 +1,13 @@
+54 palavra(s) gravadas, 0 com falha (voz pt-BR-AntonioNeural, rate -25%)
+   banana: BA apartada recusada (0.56s passa do teto 0.55s (soletrada)) — ficou a palavra
+   boneca: NE apartada recusada (0.57s passa do teto 0.55s (soletrada)) — ficou a palavra
+   cavalo: VA apartada recusada (0.76s passa do teto 0.55s (soletrada)) — ficou a palavra
+   chave: VE apartada recusada (0.68s passa do teto 0.55s (soletrada)) — ficou a palavra
+   escola: ES apartada recusada (0.64s passa do teto 0.55s (soletrada)) — ficou a palavra
+   espelho: ES apartada recusada (0.71s passa do teto 0.55s (soletrada)) — ficou a palavra
+   esquilo: ES apartada recusada (0.68s passa do teto 0.55s (soletrada)) — ficou a palavra
+   feliz: FE apartada recusada (0.75s passa do teto 0.55s (soletrada)) — ficou a palavra
+   janela: NE apartada recusada (0.61s passa do teto 0.55s (soletrada)) — ficou a palavra
+   javali: VA apartada recusada (0.66s passa do teto 0.55s (soletrada)) — ficou a palavra
+   lancheira: CHEI apartada recusada (sem teto aferido para 4 letras) — ficou a palavra
+   lâmpada: PA apartada recusada (2 nucleo(s) de vogal) — ficou a palavra
